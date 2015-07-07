@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  PurupuruSample
 //
-//  Created by 林克彦 on 2015/07/07.
+//  Created by Hayashidesu. on 2015/07/07.
 //  Copyright (c) 2015年 Hayashidesu. All rights reserved.
 //
 

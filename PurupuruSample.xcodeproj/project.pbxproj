@@ -13,6 +13,7 @@
 		A8055D5E1B4BAF8700A9E071 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A8055D5D1B4BAF8700A9E071 /* Images.xcassets */; };
 		A8055D611B4BAF8700A9E071 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A8055D5F1B4BAF8700A9E071 /* LaunchScreen.xib */; };
 		A8055D6D1B4BAF8700A9E071 /* PurupuruSampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8055D6C1B4BAF8700A9E071 /* PurupuruSampleTests.swift */; };
+		A8055D771B4BC87D00A9E071 /* Mochi.png in Resources */ = {isa = PBXBuildFile; fileRef = A8055D761B4BC87D00A9E071 /* Mochi.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		A8055D661B4BAF8700A9E071 /* PurupuruSampleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PurupuruSampleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A8055D6B1B4BAF8700A9E071 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A8055D6C1B4BAF8700A9E071 /* PurupuruSampleTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PurupuruSampleTests.swift; sourceTree = "<group>"; };
+		A8055D761B4BC87D00A9E071 /* Mochi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Mochi.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				A8055D531B4BAF8700A9E071 /* PurupuruSample */,
 				A8055D691B4BAF8700A9E071 /* PurupuruSampleTests */,
 				A8055D521B4BAF8700A9E071 /* Products */,
+				A8055D761B4BC87D00A9E071 /* Mochi.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -192,6 +195,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A8055D771B4BC87D00A9E071 /* Mochi.png in Resources */,
 				A8055D5C1B4BAF8700A9E071 /* Main.storyboard in Resources */,
 				A8055D611B4BAF8700A9E071 /* LaunchScreen.xib in Resources */,
 				A8055D5E1B4BAF8700A9E071 /* Images.xcassets in Resources */,
@@ -409,6 +413,7 @@
 				A8055D721B4BAF8700A9E071 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A8055D731B4BAF8700A9E071 /* Build configuration list for PBXNativeTarget "PurupuruSampleTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +422,7 @@
 				A8055D751B4BAF8700A9E071 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
